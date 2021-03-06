@@ -1,0 +1,3 @@
+export function rangeBetween(): number {
+    return Math.floor(Math.random() * 100)+ 1
+}
